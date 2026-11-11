@@ -1,5 +1,9 @@
 # 桌面引力 Desktop Gravity
 
+## 演示视频
+
+https://github.com/user-attachments/assets/4424661a-c239-4471-8d26-ab6e2fd1393a
+
 把 Mac 桌面变成一个投篮场。按下 Control + Option + G，桌面图标的副本会从原位掉落。抓起文件夹，朝篮筐甩出去；投偏飞出篮板那一侧，还会有一个场外回传。
 
 [下载最新版](https://github.com/zldfv/desktop-gravity/releases/latest)
